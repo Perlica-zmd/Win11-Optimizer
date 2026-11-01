@@ -127,7 +127,7 @@ from foreground programs.
   scan moved to 03:00, catch-up scans disabled (a common cause of "it scanned for no reason").
 - **Preset B - exclusions.** The cost of real-time protection scales with how many files are
   watched. Excluding 
-ode_modules, uild, .git, VM images and game folders measurably
+ode_modules, uild, .git, VM images and game folders measurably
   reduces CPU and disk I/O. Excluded paths lose real-time protection, so only exclude what
   you trust.
 - **Preset C - weakens protection.** Cloud protection, block-at-first-sight, the scheduled
